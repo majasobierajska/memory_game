@@ -1,0 +1,21 @@
+.card
+{
+    width: 2vw;
+    height: 2vh;
+    background-color: purple;
+    border: black;
+    padding: 5%;
+    margin: 5% 3%;
+    color: purple;
+}
+#container
+{
+    display: flex;
+    flex-flow: wrap;
+    float: 0 auto;
+    margin: 3%;
+}
+h1
+{
+    text-align: center;
+}
